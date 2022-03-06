@@ -1,4 +1,7 @@
 # ML-Insaid
+
+![image](https://user-images.githubusercontent.com/87597168/156912889-0448b802-e331-4655-b7d3-4eec0efa7204.png)
+
 # github repositories to learn about Data Science
 
 1) Awesome Data Science - https://github.com/academic/awesome-datascience
