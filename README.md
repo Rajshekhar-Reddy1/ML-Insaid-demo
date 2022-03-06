@@ -1,6 +1,5 @@
 # ML-Insaid
-# ML-Machine Learning algorithms.
-# ML-Q&A
+# github repositories to learn about Data Science
 
 1) Awesome Data Science - https://github.com/academic/awesome-datascience
 2) Data Science Cheat-sheets - https://github.com/sridharavulapati/abhat222-Data-Science--Cheat-Sheet
