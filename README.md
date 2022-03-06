@@ -1,6 +1,7 @@
 # ML-Insaid
 
-![image](https://user-images.githubusercontent.com/87597168/156912889-0448b802-e331-4655-b7d3-4eec0efa7204.png)
+![image](https://user-images.githubusercontent.com/87597168/156912934-83f38bb9-a078-464f-8862-1e4c8dd025d0.png)
+
 
 # github repositories to learn about Data Science
 
